@@ -46,6 +46,6 @@ pip install requests gspread oauth2client
 
 ## Contacts 
 
-- Linkedin - @https://www.linkedin.com/in/sneha-vilasrao-pujari/
-- Gmail - @dotsnehapujari555@gmail.com
+- Linkedin -[Sneha Vilasrao Pujari](https://www.linkedin.com/in/sneha-vilasrao-pujari/)
+- Gmail - [Sneha Vilasrao Pujari](dotsnehapujari555@gmail.com)
 
