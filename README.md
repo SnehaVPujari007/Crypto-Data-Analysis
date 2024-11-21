@@ -1,4 +1,4 @@
-# Cryptocurrency Analysis and Google Sheets Integration
+# Crypto Data Analysis
 
 ## Overview
 This project fetches live cryptocurrency data for the top 50 cryptocurrencies by market capitalization using the CoinGecko API. The data is analyzed to extract key insights and is automatically updated into a Google Spreadsheet in real time. The project is designed to help analysts, investors, and enthusiasts understand market trends, volatility, and key performance metrics.
